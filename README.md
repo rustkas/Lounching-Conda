@@ -1,4 +1,4 @@
-# Lounching-Conda
+# Lounching conda
 
 Working with Anacondata environment
 
